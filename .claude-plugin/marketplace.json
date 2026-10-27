@@ -1,0 +1,7 @@
+{
+  "name": "prakash-plugins",
+  "owner": { "name": "Prakash Rajan" },
+  "plugins": [
+    { "name": "3d-web-application-builder", "source": "./", "version": "1.0.1" }
+  ]
+}
